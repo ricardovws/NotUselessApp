@@ -1,0 +1,9 @@
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\bin\Debug\netcoreapp3.1\SharedModel.deps.json
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\bin\Debug\netcoreapp3.1\SharedModel.dll
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\bin\Debug\netcoreapp3.1\SharedModel.pdb
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\obj\Debug\netcoreapp3.1\SharedModel.csprojAssemblyReference.cache
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\obj\Debug\netcoreapp3.1\SharedModel.AssemblyInfoInputs.cache
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\obj\Debug\netcoreapp3.1\SharedModel.AssemblyInfo.cs
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\obj\Debug\netcoreapp3.1\SharedModel.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\obj\Debug\netcoreapp3.1\SharedModel.dll
+C:\Users\santo\source\repos\HangfireDemo\SharedModel\obj\Debug\netcoreapp3.1\SharedModel.pdb
